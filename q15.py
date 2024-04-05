@@ -1,4 +1,3 @@
-# Exercício 15
 def quadrado_com_soma_impares(n):
     soma = 0
     inicio = 1
