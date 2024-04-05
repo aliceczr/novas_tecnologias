@@ -1,4 +1,4 @@
-# Exercício 9
+
 def adicao(x, y):
     return x + y
 
